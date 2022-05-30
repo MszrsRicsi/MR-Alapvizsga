@@ -1,1 +1,1 @@
-# MR-Alapvizsga
+# Alapvizsga_web_2022m-jus
